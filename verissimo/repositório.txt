@@ -1,0 +1,4 @@
+ACME Inc.         Uso de espaço em disco pelos usuários 
+ ------------------------------------------------------------------------------------------ 
+ Nr     Usuário      Espaço utilizado     % do uso     
+ rosemary	789456125
